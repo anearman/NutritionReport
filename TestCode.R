@@ -5,5 +5,3 @@ summary(mtcars)
 
 print("Hi Nathalie!")
 print("Hi Ariela!")
-
-print("Test no Diff")
