@@ -6,3 +6,5 @@ summary(mtcars)
 print("Hi Nathalie!")
 print("Hi Ariela!")
 #notes from my other computer
+
+#Nathalie logging in
