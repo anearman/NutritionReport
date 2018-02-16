@@ -8,3 +8,4 @@ print("Hi Ariela!")
 #notes from my other computer
 
 #Nathalie logging in
+#Ariela was here
